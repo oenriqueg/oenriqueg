@@ -4,6 +4,12 @@
 - 💞️ I’m looking to collaborate with anyone on anything that I can, mainly as Data Analyst (remember, I'm a newbie :P). I've been working during 8 years in contract management, vendor management, financial analysis and 3 years teaching a cloud computing course at college (UNAM).
 - 📫 You can reach me through my profiles on Twitter or LinkedIn  (@oenriqueg)
 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/oenriqueg/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/oenriqueg)
+[![facebook](https://img.shields.io/badge/facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/oenriqueg)
+[![facebook](https://img.shields.io/badge/credly-FF6B00?style=flat&logo=Credly&logoColor=white)](https://www.credly.com/users/oenriqueg/badges)
+[![facebook](https://img.shields.io/badge/github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/oenriqueg/)
+
 
 <h2>My Badges on Credly</22>
 <br>
